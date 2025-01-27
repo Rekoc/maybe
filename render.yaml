@@ -5,7 +5,6 @@ databases:
 
 services:
   - type: web
-    plan: free
     autoDeploy: false
     runtime: ruby
     name: maybe
